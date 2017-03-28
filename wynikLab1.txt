@@ -1,0 +1,157 @@
+$optimum
+[1] 0.93
+
+$valueFunctions
+$valueFunctions$MaximumLoad
+  [,1] [,2] [,3] [,4]      [,5]       [,6]
+x    5    6 6.50 7.00 9.0000000 13.0000000
+y    0    0 0.04 0.04 0.3033333  0.6066667
+
+$valueFunctions$RPM
+  [,1] [,2] [,3]
+x 1000 1200 1400
+y    0    0    0
+
+$valueFunctions$Price
+  [,1] [,2]         [,3]         [,4]         [,5]
+x 3499 2699 2649.0000000 1799.0000000 1599.0000000
+y    0    0    0.3133333    0.3133333    0.3133333
+          [,6]         [,7]         [,8]         [,9]
+x 1549.0000000 1399.0000000 1299.0000000 1249.0000000
+y    0.3133333    0.3133333    0.3133333    0.3133333
+         [,10]        [,11]        [,12]       [,13]
+x 1199.0000000 1099.0000000 1059.0000000 999.0000000
+y    0.3133333    0.3133333    0.3133333   0.3833333
+        [,14]       [,15]
+x 899.0000000 799.0000000
+y   0.3933333   0.3933333
+
+
+$overallValues
+          Samsung Addwash WW90K6414QW 
+                              0.61667 
+                     Hoover DMP 413AH 
+                              0.60667 
+Bosch Serie 6 VarioPerfect WLT24460PL 
+                              0.35333 
+          Indesit IWSC 51052 C ECO PL 
+                              0.39333 
+                        Amica AWB510L 
+                              0.39333 
+               Candy Smart CS4 1061D3 
+                              0.35333 
+                  Samsung WF70F5E0W2W 
+                              0.31333 
+Bosch Serie 4 VarioPerfect WLG2426KPL 
+                              0.31333 
+Bosch Serie 2 VarioPerfect WAB20264PL 
+                              0.31333 
+                 Electrolux EWS1266CI 
+                              0.31333 
+                  Samsung WW60J3283LW 
+                              0.39333 
+          Indesit IWSC 61253 C ECO EU 
+                              0.38333 
+  Indesit Eco Time IWD 61052 C ECO PL 
+                              0.31333 
+               Whirlpool AWO/C 61003P 
+                              0.31333 
+Bosch Serie 6 VarioPerfect WLK2427EPL 
+                              0.35333 
+               Electrolux EWS11064SDU 
+                              0.31333 
+     Samsung AddWash Slim WW60K42138W 
+                              0.31333 
+                  Samsung WW60J42602W 
+                              0.31333 
+Bosch Serie 4 VarioPerfect WLG2026EPL 
+                              0.31333 
+              Amica Navigator AWX612D 
+                              0.30333 
+
+$ranks
+          Samsung Addwash WW90K6414QW 
+                                    1 
+                     Hoover DMP 413AH 
+                                    2 
+Bosch Serie 6 VarioPerfect WLT24460PL 
+                                    7 
+          Indesit IWSC 51052 C ECO PL 
+                                    3 
+                        Amica AWB510L 
+                                    3 
+               Candy Smart CS4 1061D3 
+                                    7 
+                  Samsung WF70F5E0W2W 
+                                   10 
+Bosch Serie 4 VarioPerfect WLG2426KPL 
+                                   10 
+Bosch Serie 2 VarioPerfect WAB20264PL 
+                                   10 
+                 Electrolux EWS1266CI 
+                                   10 
+                  Samsung WW60J3283LW 
+                                    3 
+          Indesit IWSC 61253 C ECO EU 
+                                    6 
+  Indesit Eco Time IWD 61052 C ECO PL 
+                                   10 
+               Whirlpool AWO/C 61003P 
+                                   10 
+Bosch Serie 6 VarioPerfect WLK2427EPL 
+                                    7 
+               Electrolux EWS11064SDU 
+                                   10 
+     Samsung AddWash Slim WW60K42138W 
+                                   10 
+                  Samsung WW60J42602W 
+                                   10 
+Bosch Serie 4 VarioPerfect WLG2026EPL 
+                                   10 
+              Amica Navigator AWX612D 
+                                   20 
+
+$errors
+          Samsung Addwash WW90K6414QW 
+                                 0.00 
+                     Hoover DMP 413AH 
+                                 0.00 
+Bosch Serie 6 VarioPerfect WLT24460PL 
+                                 0.12 
+          Indesit IWSC 51052 C ECO PL 
+                                 0.07 
+                        Amica AWB510L 
+                                 0.06 
+               Candy Smart CS4 1061D3 
+                                 0.09 
+                  Samsung WF70F5E0W2W 
+                                 0.12 
+Bosch Serie 4 VarioPerfect WLG2426KPL 
+                                 0.11 
+Bosch Serie 2 VarioPerfect WAB20264PL 
+                                 0.10 
+                 Electrolux EWS1266CI 
+                                 0.09 
+                  Samsung WW60J3283LW 
+                                 0.00 
+          Indesit IWSC 61253 C ECO EU 
+                                 0.00 
+  Indesit Eco Time IWD 61052 C ECO PL 
+                                 0.06 
+               Whirlpool AWO/C 61003P 
+                                 0.05 
+Bosch Serie 6 VarioPerfect WLK2427EPL 
+                                 0.00 
+               Electrolux EWS11064SDU 
+                                 0.03 
+     Samsung AddWash Slim WW60K42138W 
+                                 0.02 
+                  Samsung WW60J42602W 
+                                 0.01 
+Bosch Serie 4 VarioPerfect WLG2026EPL 
+                                 0.00 
+              Amica Navigator AWX612D 
+                                 0.00 
+
+$Kendall
+[1] 0.6091875
